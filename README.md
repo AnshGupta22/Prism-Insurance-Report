@@ -1,5 +1,6 @@
 # Prism-Insurance-Report
 Insurance Analytics Dashboard: End-to-End SQL & Power BI Project
+
 📌 Executive Summary
 This project provides a comprehensive analysis of over 10,000 insurance policy records across five major sectors: Auto, Health, Home, Life, and Travel. By bridging the gap between raw database management and interactive data visualization, the dashboard tracks revenue performance, claim status trends, and customer demographics to drive data-informed decision-making.
 
@@ -31,3 +32,6 @@ Sector Breakdown: Comparative analysis of policy types (Auto, Health, Home, Life
 Claim Status Tracker: Visual distribution of Settled, Pending, and Rejected claims to monitor operational health.
 
 Interactive Slicers: Ability to filter the entire dashboard by Gender, Policy Type, and Claim Status for deep-dive analysis.
+
+📊Dashboard Preview
+(https://github.com/AnshGupta22/Prism-Insurance-Report/blob/main/Prism%20Insurance%20Dashboard%20Image.png)
