@@ -34,4 +34,6 @@ Claim Status Tracker: Visual distribution of Settled, Pending, and Rejected clai
 Interactive Slicers: Ability to filter the entire dashboard by Gender, Policy Type, and Claim Status for deep-dive analysis.
 
 📊Dashboard Preview
-!(https://github.com/AnshGupta22/Prism-Insurance-Report/blob/main/Prism%20Insurance%20Dashboard%20Image.png)
+<p align="center">
+  <img src="https://github.com/AnshGupta22/Prism-Insurance-Report/blob/main/Prism%20Insurance%20Dashboard%20Image.png" width="800" title="Insurance Analysis Dashboard">
+</p>
